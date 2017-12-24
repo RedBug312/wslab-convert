@@ -41,9 +41,10 @@
 - [ ] 忘記csie工作站密碼forget-csie-workstation-password.md
 - [ ] 系友忘記工作站密碼alumni-forgot-csie-workstation-password.md
 
-**檔案重抓方法**
+## 檔案重抓方法
+
 1. 從檔案表格重新下載 `wslab.csv`
 2. 執行指令
     ```
-    parallel 'wget -q -O - { | xmllint --html --xpath "//h1|//article" - 2>/dev/null | pandoc --from html --to markdown_github+grid_tables+link_attributes --atx-headers > pandoc/{/}.md' ::: `grep -xP '.+,.+,' wslab.csv | cut -d, -f2 | sed 's/.$//'`}
+    parallel 'wget -q -O - {} | xmllint --html --xpath "//h1|//article" - 2>/dev/null | pandoc --from html --to markdown_github+grid_tables+link_attributes --atx-headers > pandoc/{/}.md' ::: `grep -xP '.+,.+,' wslab.csv | cut -d, -f2 | sed 's/.$//'`
     ```
