@@ -1,0 +1,54 @@
+標題,網址,進度(✓)
+工作站使用規範 Computation Rule,https://wslab.csie.ntu.edu.tw/computation-rule/,
+SSH,https://wslab.csie.ntu.edu.tw/ssh/,
+硬體 Hardware,https://wslab.csie.ntu.edu.tw/hardware/,
+軟體 Software,https://wslab.csie.ntu.edu.tw/software/,
+系統狀態 Status,https://wslab.csie.ntu.edu.tw/status/,
+帳號 Account,https://wslab.csie.ntu.edu.tw/account/,
+主機代管 Colocation,https://wslab.csie.ntu.edu.tw/colocation/,
+作業系統 Operating System,https://wslab.csie.ntu.edu.tw/operating-system/,
+FTP,https://wslab.csie.ntu.edu.tw/ftp/,
+個人網頁 Homepage,https://wslab.csie.ntu.edu.tw/homepage/,
+信箱 Mail,https://wslab.csie.ntu.edu.tw/mail/,
+History,https://wslab.csie.ntu.edu.tw/history/,
+Mirror Service,https://wslab.csie.ntu.edu.tw/mirror-service/,
+列印 Printer,https://wslab.csie.ntu.edu.tw/printer/,
+實驗室空間 Room 217,https://wslab.csie.ntu.edu.tw/room/,
+常見問題 FAQ,https://wslab.csie.ntu.edu.tw/faq/,
+更改密碼 Change Password,https://wslab.csie.ntu.edu.tw/password-change/,
+申請表單 Application Forms,https://wslab.csie.ntu.edu.tw/application-download/,
+聯絡助教 Contact,https://wslab.csie.ntu.edu.tw/contact/,
+WinSCP,https://wslab.csie.ntu.edu.tw/2006/12/winscp/,
+FileZilla,https://wslab.csie.ntu.edu.tw/2007/02/filezilla/,
+Private: Email 設定-Microsoft Outlook Express 6,https://wslab.csie.ntu.edu.tw/2012/03/mail-ms-outlook-express-6/,不用轉
+Email 設定-Microsoft Outlook 2003,https://wslab.csie.ntu.edu.tw/2012/03/mail-ms-outlook-2003/,
+Email 設定-Thunderbird,https://wslab.csie.ntu.edu.tw/2012/03/mail-thunderbird/,
+工作站安裝 python package 教學,https://wslab.csie.ntu.edu.tw/2012/03/工作站安裝-python-package-教學/,
+Using VNC,https://wslab.csie.ntu.edu.tw/2012/04/vnc/,
+Run GUI application with Xming,https://wslab.csie.ntu.edu.tw/2012/04/run-gui-application-with-xming/,
+Using SVN with https,https://wslab.csie.ntu.edu.tw/2012/04/using-svn-with-https/,
+Email 設定-mutt,https://wslab.csie.ntu.edu.tw/2012/05/mail-mutt/,
+Receive Mails Using Gmail,https://wslab.csie.ntu.edu.tw/2013/01/receive-mails-using-gmail/,
+Receive Mails Using IMAP on Android,https://wslab.csie.ntu.edu.tw/2013/01/receive-mails-using-imap-on-android/,
+雲端儲存系統教學 (系辦專用),https://wslab.csie.ntu.edu.tw/2014/02/csie-office-nas/,不用轉
+tmp2 usage rules,https://wslab.csie.ntu.edu.tw/2015/01/tmp2-usage-rules/,
+CSIE Email 轉遞公告 (Email Forwarding),https://wslab.csie.ntu.edu.tw/2015/01/csie-email-forwarding/,
+CSIE Email 複製與轉移教學,https://wslab.csie.ntu.edu.tw/2015/03/csie-email-transfer/,
+CSIE工作站更改密碼/HOW TO CHANGE CSIE PASSWORD,https://wslab.csie.ntu.edu.tw/2015/10/csie工作站更改密碼how-to-change-csie-password/,
+忘記CSIE工作站密碼/FORGET CSIE WORKSTATION PASSWORD,https://wslab.csie.ntu.edu.tw/2015/10/忘記csie工作站密碼forget-csie-workstation-password/,
+系友忘記工作站密碼/Alumni Forgot CSIE WORKSTATION Password,https://wslab.csie.ntu.edu.tw/2015/10/系友忘記工作站密碼alumni-forgot-csie-workstation-password/,
+CSIE 列印教學,https://wslab.csie.ntu.edu.tw/2015/11/csie217_print_tutorial/,
+工作站使用小技巧,https://wslab.csie.ntu.edu.tw/2016/10/工作站使用小技巧/,
+MATLAB R2017a installation tutorial,https://wslab.csie.ntu.edu.tw/2017/08/matlab-r2017a-installation-tutorial/,
+,,
+,,
+,,
+不須處理,,
+How to change password,https://wslab.csie.ntu.edu.tw/2012/01/password-change/,存在較好較新版本
+,https://wslab.csie.ntu.edu.tw/2012/03/徵求217實習助教/,過時公告
+,https://wslab.csie.ntu.edu.tw/2012/03/linux3-更換硬碟，請備份-tmp2-資料/,過時公告
+,https://wslab.csie.ntu.edu.tw/2012/03/linux911-記憶體擴充到-96g/,過時公告
+,https://wslab.csie.ntu.edu.tw/2012/08/account-info-sent-to-ntu/,過時公告
+,https://wslab.csie.ntu.edu.tw/2012/09/linux1-now-accepts-ssh-connection-from-port-80-and-443/,過時公告
+,https://wslab.csie.ntu.edu.tw/2014/09/woodstock-is-back/,過時公告
+CSIE Email Forward 設定方式,X,draft
