@@ -21,7 +21,7 @@
     - [ ] tmp2 usage rules
     - [ ] 工作站使用小技巧
     - [x] WinSCP
-    - [ ] FileZilla
+    - [x] FileZilla
     - [ ] Using VNC
     - [ ] Esystem相關連結
     - [ ] Run GUI application with Xming
