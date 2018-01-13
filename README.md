@@ -25,7 +25,7 @@
     - [ ] Using VNC
     - [ ] Esystem相關連結
     - [ ] Run GUI application with Xming
-    - [ ] 帳號 Account
+    - [x] 帳號 Account
     - [ ] 信箱 Mail
     - [ ] CSIE Email 轉遞公告 (Email Forwarding)
     - [ ] 更改密碼 Change Password
