@@ -13,11 +13,6 @@
 -   CSIE dept. website maintenance
 -   215 server room issues
 
-### 指導教授：薛智文教授
-
--   德田館 322 研究室
--   +886-2-3366-4888 ext. 322
-
 ## [網路管理團隊 (Network Administration Team)](http://nalab.csie.ntu.edu.tw/)
 
 -   IP Address management
@@ -29,7 +24,7 @@
 -   德田館 316 研究室
 -   +886-2-3366-4888 ext. 316
 
-### 專任助教：簡名沅
+### 專任助教：吳一德
 
 -   德田館 217 工作站實驗室
 -   +886-2-3366-4888 ext. 217
