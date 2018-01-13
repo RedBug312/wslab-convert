@@ -1,7 +1,7 @@
 # 檢查進度
 
 1. ta217
-    - [ ] 機房 Room215
+    - [x] 機房 Room215
     - [x] History
     - [ ] 實驗室空間 Room 217
     - [ ] 申請表單 Application Forms
