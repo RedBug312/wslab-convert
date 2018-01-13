@@ -44,5 +44,5 @@
 1. 從檔案表格重新下載 `wslab.csv`
 2. 執行指令
     ```
-parallel 'wget -q -O - {} | xmllint --html --xpath "//h1|//article" - 2>/dev/null | pandoc --from html --to markdown_github+grid_tables+link_attributes --atx-headers > {/}.md' ::: `grep -xP '.+,.+,' wslab.csv | cut -d, -f2 | sed 's/.$//'`
+    parallel 'wget -q -O - {} | xmllint --html --xpath "//h1|//article" - 2>/dev/null | pandoc --from html --to markdown_github+grid_tables+link_attributes --atx-headers > {/}.md' ::: `grep -xP '.+,.+,' wslab.csv | cut -d, -f2 | sed 's/.$//'`
     ```
