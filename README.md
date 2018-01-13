@@ -26,7 +26,7 @@
     - [x] Esystem相關連結
     - [ ] Run GUI application with Xming
     - [x] 帳號 Account
-    - [ ] 信箱 Mail
+    - [x] 信箱 Mail
     - [ ] CSIE Email 轉遞公告 (Email Forwarding)
     - [x] 更改密碼 Change Password
     - [ ] CSIE工作站更改密碼/HOW TO CHANGE CSIE PASSWORD
