@@ -20,7 +20,7 @@
     - [ ] 工作站安裝 python package 教學
     - [ ] tmp2 usage rules
     - [ ] 工作站使用小技巧
-    - [ ] WinSCP
+    - [x] WinSCP
     - [ ] FileZilla
     - [ ] Using VNC
     - [ ] Esystem相關連結
