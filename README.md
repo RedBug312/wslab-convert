@@ -2,7 +2,7 @@
 
 1. ta217
     - [ ] 機房 Room215
-    - [ ] History
+    - [x] History
     - [ ] 實驗室空間 Room 217
     - [ ] 申請表單 Application Forms
     - [ ] 聯絡助教 Contact
