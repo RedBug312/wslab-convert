@@ -28,7 +28,7 @@
     - [x] 帳號 Account
     - [ ] 信箱 Mail
     - [ ] CSIE Email 轉遞公告 (Email Forwarding)
-    - [ ] 更改密碼 Change Password
+    - [x] 更改密碼 Change Password
     - [ ] CSIE工作站更改密碼/HOW TO CHANGE CSIE PASSWORD
     - [ ] 忘記CSIE工作站密碼/FORGET CSIE WORKSTATION PASSWORD
     - [ ] 系友忘記工作站密碼/Alumni Forgot CSIE WORKSTATION Password
