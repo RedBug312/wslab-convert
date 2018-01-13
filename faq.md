@@ -33,64 +33,49 @@
     This usually happens after upgrading to a new GNOME version. You can
     remove your GNOME related settings by
 
-cd ~ && rm -rf .gconf\* .gnome\* .gnomehackrc .recently-used
+`cd ~ && rm -rf .gconf\* .gnome\* .gnomehackrc .recently-used`
 
 **Please backup them before doing this.** Usually this helps, if not,
 please contact the TAs. **Note that you may lose your Firefox or Mozilla
 settings.**
 
 -   Where is my favorite KDE?  
-    We no longer support KDE as our desktop environment. Please switch
-    to GNOME.
+    We no longer support KDE as our desktop environment. Please switch to GNOME.
 -   Why the outputs from ”dict” are broken?  
-    The output by dict protocol is UTF-8. You can use `dictl` which
-    automatically transforms the encoding for you. You have to set LANG
-    or LC\_CTYPE correctly. For example, they should be zh\_TW.Big5 for
-    most of you.
+    The output by dict protocol is UTF-8. You can use `dictl` which automatically transforms the encoding for you. You have to set `LANG` or `LC\_CTYPE` correctly. For example, they should be zh\_TW.Big5 for most of you.
 
--   Can I use X window environment of BSD and Linux boxes on my Windows
-    desktop?  
-    Yes. You have to start a VNC server on any one of workstations
-    first. Then, use a VNC client to connect. **We strongly recommend
-    you use VNC over an encrypted channel.** To setup, please refer to
-    [[待處理] this URL](http://www.csie.ntu.edu.tw/~rafan/vnc-ssh.html) and
-    remember to add `-localhost` when you start the vnc server.
+-   Can I use X window environment of BSD and Linux boxes on my Windows desktop?  
+    Yes. You have to start a VNC server on any one of workstations first. Then, use a VNC client to connect. **We strongly recommend you use VNC over an encrypted channel.** To setup, please refer to [[待處理] this URL](http://www.csie.ntu.edu.tw/~rafan/vnc-ssh.html) and remember to add `-localhost` when you start the vnc server.
 
 -   Why does my mail forwarding not work?  
-    Please make sure you modify your forwarding setting in the [[待處理] webmail
-    service](http://webmail.csie.ntu.edu.tw/). If it does not work,
-    please contact the TAs.
+    Please make sure you modify your forwarding setting in the [[待處理] webmail service](http://webmail.csie.ntu.edu.tw/). If it does not work, please contact the TAs.
 
 -   How do I know my home directory space usage?  
     You can use the command `du` to list the space usage. For example,
 
 On Linux
 
-du –max-depth=1 ~ \| sort -n
+`du –max-depth=1 ~ \| sort -n`
 
 On BSD
 
-du -d 1 ~ \| sort -n
+`du -d 1 ~ \| sort -n`
 
 ## Account
 
 -   Could I name my account after my name for students?  
-    No, because of management issue. We use a student id as the account
-    name for undergraduate students, graduate students and phd students.
+    No, because of management issue. We use a student id as the account name for undergraduate students, graduate students and phd students.
 
 -   How many user space I can use?  
-    For undergraduate and master student, each student has 1G user
-    quota. For alumni, each alumnu has 100M user quota.
+    For undergraduate and master student, each student has 1G user quota. For alumni, each alumnu has 100M user quota.
 
 ## Mail
 
 -   May I put files on mail server?  
-    No. you cannot. The system automatically removes non-mail files on
-    the server.
+    No. you cannot. The system automatically removes non-mail files on the server.
 
 -   Why I have to enter my password each time in pine or mutt?  
-    Pine and Mutt access mailbox via IMAP (or POP3) which requires
-    authentication. You may want to use screen to keep pine/mutt open.
+    Pine and Mutt access mailbox via IMAP (or POP3) which requires authentication. You may want to use screen to keep pine/mutt open.
 
 -   What is ~/mail and ~/Mail?  
     ~/Mail is where Mutt stores mail. ~/mail is for Pine.
@@ -104,8 +89,7 @@ du -d 1 ~ \| sort -n
 ## BSD
 
 -   Can we run MATLAB on BSD machines?  
-    Yes. But this is **EXPERIMENTAL**, not officially supported by
-    MATLAB.
+    Yes. But this is **EXPERIMENTAL**, not officially supported by MATLAB.
 
 -   Can we run linux binary on BSD machines?  
     Yes.
