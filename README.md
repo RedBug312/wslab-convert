@@ -30,7 +30,7 @@
     - [ ] CSIE Email 轉遞公告 (Email Forwarding)
     - [ ] 更改密碼 Change Password
     - [ ] CSIE工作站更改密碼/HOW TO CHANGE CSIE PASSWORD
-    - [ ] 忘記CSIE工作站密碼/FORGET CSIE WORKSTATION PASSWORD
+    - [x] 忘記CSIE工作站密碼/FORGET CSIE WORKSTATION PASSWORD
     - [ ] 系友忘記工作站密碼/Alumni Forgot CSIE WORKSTATION Password
 5. 個人電腦組
     - [ ] 列印 Printer
