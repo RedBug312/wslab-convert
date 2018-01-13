@@ -2,15 +2,15 @@
 
 ## 常見問題
 
-###### 我想申請工作站帳號
+### 我想申請工作站帳號
 
-請參考 [帳號](/account/)。
+請參考 [[待處理] 帳號](/account/)。
 
-###### 忘記工作站密碼
+### 忘記工作站密碼
 
 若您的 CSIE 工作站帳號為學生帳號，可透過系統自動申請重設密碼，不必寄信。
 
-<span class="underline">重設密碼 SOP</span>：
+重設密碼 SOP：
 
 1.  開啟 esystem 忘記密碼系統：
     <https://esystem.csie.ntu.edu.tw/forget_password>
@@ -19,13 +19,13 @@
     &lt;esystem@csie.ntu.edu.tw&gt;，標題為 \[CSIE Workstation\]
     password reset
 4.  點選信中的連結，注意連結的網址開頭必須是
-    https://esystem.csie.ntu.edu.tw/reset\_password ，以防止遭到釣魚
+    https://esystem.csie.ntu.edu.tw/reset\_password，以防止遭到釣魚
 5.  網頁會顯示成功重設密碼，並把新密碼寄到 NTU 信箱
 6.  使用此密碼登入到工作站或 CSIE Info 更改密碼
 
-###### 畢業生工作站 Quota 縮減
+### 畢業生工作站 Quota 縮減
 
-請至 [CSIE Info](https://info.csie.ntu.edu.tw/graduation) 完成手續
+請至 [[待處理] CSIE Info](https://info.csie.ntu.edu.tw/graduation) 完成手續
 
 ## Linux
 
@@ -53,11 +53,11 @@ settings.**
     Yes. You have to start a VNC server on any one of workstations
     first. Then, use a VNC client to connect. **We strongly recommend
     you use VNC over an encrypted channel.** To setup, please refer to
-    [this URL](http://www.csie.ntu.edu.tw/~rafan/vnc-ssh.html) and
+    [[待處理] this URL](http://www.csie.ntu.edu.tw/~rafan/vnc-ssh.html) and
     remember to add `-localhost` when you start the vnc server.
 
 -   Why does my mail forwarding not work?  
-    Please make sure you modify your forwarding setting in the [webmail
+    Please make sure you modify your forwarding setting in the [[待處理] webmail
     service](http://webmail.csie.ntu.edu.tw/). If it does not work,
     please contact the TAs.
 
