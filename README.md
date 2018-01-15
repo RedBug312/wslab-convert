@@ -3,23 +3,23 @@
 1. ta217
     - [x] 機房 Room215
     - [x] History
-    - [ ] 實驗室空間 Room 217
-    - [ ] 申請表單 Application Forms
-    - [ ] 聯絡助教 Contact
+    - [x] 實驗室空間 Room 217
+    - [x] 申請表單 Application Forms
+    - [x] 聯絡助教 Contact
 2. 各組共用
-    - [ ] 常見問題 FAQ
+    - [x] 常見問題 FAQ
 3. 客戶監控組
-    - [ ] 工作站使用規範 Computation Rule
-    - [ ] SSH
-    - [ ] 硬體 Hardware
+    - [x] 工作站使用規範 Computation Rule
+    - [x] SSH
+    - [x] 硬體 Hardware
     - [ ] 軟體 Software
     - [ ] 系統狀態 Status
     - [ ] 作業系統 Operating System
 4. 帳號管理組
     - [ ] Mirror Service
     - [ ] 工作站安裝 python package 教學
-    - [ ] tmp2 usage rules
-    - [ ] 工作站使用小技巧
+    - [x] tmp2 usage rules
+    - [x] 工作站使用小技巧
     - [x] WinSCP
     - [x] FileZilla
     - [ ] Using VNC
@@ -37,7 +37,7 @@
     - [ ] CSIE 列印教學
     - [ ] MATLAB R2017a installation tutorial
 6. 網站管理組
-    - [ ] 個人網頁 Homepage
+    - [x] 個人網頁 Homepage
 
 ## 檔案重抓方法
 
