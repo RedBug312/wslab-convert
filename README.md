@@ -1,7 +1,7 @@
 # 檢查進度
 
 1. ta217
-    - [ ] 機房 Room215
+    - [x] 機房 Room215
     - [x] History
     - [x] 實驗室空間 Room 217
     - [x] 申請表單 Application Forms
@@ -20,17 +20,17 @@
     - [ ] 工作站安裝 python package 教學
     - [x] tmp2 usage rules
     - [x] 工作站使用小技巧
-    - [ ] WinSCP
-    - [ ] FileZilla
+    - [x] WinSCP
+    - [x] FileZilla
     - [ ] Using VNC
-    - [ ] Esystem相關連結
+    - [x] Esystem相關連結
     - [ ] Run GUI application with Xming
-    - [ ] 帳號 Account
-    - [ ] 信箱 Mail
+    - [x] 帳號 Account
+    - [x] 信箱 Mail
     - [ ] CSIE Email 轉遞公告 (Email Forwarding)
-    - [ ] 更改密碼 Change Password
+    - [x] 更改密碼 Change Password
     - [ ] CSIE工作站更改密碼/HOW TO CHANGE CSIE PASSWORD
-    - [ ] 忘記CSIE工作站密碼/FORGET CSIE WORKSTATION PASSWORD
+    - [x] 忘記CSIE工作站密碼/FORGET CSIE WORKSTATION PASSWORD
     - [ ] 系友忘記工作站密碼/Alumni Forgot CSIE WORKSTATION Password
 5. 個人電腦組
     - [ ] 列印 Printer
