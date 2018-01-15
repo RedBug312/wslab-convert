@@ -15,6 +15,4 @@
 
 ### Mac/Linux 使用教學
 
-Linux 與 Mac 都有現成的 terminal 可以使用，所以只要打開 Terminal，輸入  
-`ssh [csie_id]@[domain]`  
-例如：`ssh b01902000@linux1.csie.ntu.edu.tw`，即可順利登入
+Linux 與 Mac 都有現成的 terminal 可以使用，所以只要打開 Terminal，輸入 `ssh [csie_id]@[domain]`。例如：`ssh b01902000@linux1.csie.ntu.edu.tw`，即可順利登入。
